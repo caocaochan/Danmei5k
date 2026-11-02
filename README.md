@@ -5,7 +5,7 @@ An Anki deck of the 5000 most common words in danmei novels, for learners who wa
 - **Words** come from a frequency list built from about 2000 danmei novels. Character names are left out.
 - **Every card has an example sentence** taken from the novels. Almost all are i+1: the only new word is the one being learned.
 - **Definitions** come from CC-CEDICT. Words CEDICT doesn't have, or senses it misses, get definitions written in the same style.
-- **Audio** for each word and sentence.
+- **TTS Audio** for each word and sentence.
 - Uses the [Lapis Chinese](https://github.com/caocaochan/LapisChinese) note type. New cards come in frequency order.
 
 ## Download
